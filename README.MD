@@ -36,7 +36,7 @@ When in a Half Open state, the circuit allows a request go through to determine 
 ##
 
 **Bonuses**
-[Circuit Break with prometheus metrics](https://github.com/nodeshift/opossum-prometheus)
+- [Circuit Break with prometheus metrics](https://github.com/nodeshift/opossum-prometheus)
 
 ##
 
