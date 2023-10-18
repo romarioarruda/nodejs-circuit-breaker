@@ -1,6 +1,5 @@
-## Nodejs Circuit Break Test Case
+## Nodejs Circuit Breaker Test Case
 
-##
 
 **What is a circuit breaker?**
 ```
